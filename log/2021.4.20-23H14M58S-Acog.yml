@@ -1,0 +1,19 @@
+date:
+  startTime: 2021.4.20-23H14M30S
+  endTime: 2021.4.20-23H14M58S
+  guild: '840625429328166921'
+  state: false
+  messages:
+    - 'Acog#5030 ( 유저 ) : ㅇㄴㅇㄴㅁ'
+    - 'Acog ( 관리자 ) : ㅇㄴㅁㅇ'
+    - 'Acog#5030 ( 유저 ) : ㅇㄴㅁㅇ'
+    - 'Acog ( 관리자 ) : ㅇㄴㅁㅇ'
+    - 'Acog#5030 ( 유저 ) : ㅇㅁㄴㅇ'
+    - 'Acog ( 관리자 ) : ㅇㄴㅁㅇ'
+    - 'Acog#5030 ( 유저 ) : ㅇㄴㅁㅇ'
+player:
+  id: '613507363235954694'
+  name: Acog
+  discriminator: '5030'
+channel:
+  id: '844941160941092885'
